@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|e:\\university\\inf-317 programacion paralela\\2doparcial_inf-317_i-2024 (borrador)\\datoestudiantecapas\\datoestudiantecapas\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|solutionrelative:datoestudiantecapas\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|e:\\university\\inf-317 programacion paralela\\2doparcial_inf-317_i-2024 (borrador)\\datoestudiantecapas\\datoestudiantecapas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|solutionrelative:datoestudiantecapas\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|e:\\university\\inf-317 programacion paralela\\2doparcial_inf-317_i-2024 (borrador)\\datoestudiantecapas\\datoestudiantecapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|solutionrelative:datoestudiantecapas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|e:\\university\\inf-317 programacion paralela\\2doparcial_inf-317_i-2024 (borrador)\\datoestudiantecapas\\datoestudiantecapas\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B4900F-FEF2-4112-A7B7-E64437695A9C}|DatoEstudianteCapas\\DatoEstudianteCapas.csproj|solutionrelative:datoestudiantecapas\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\Program.cs",
+              "RelativeDocumentMoniker": "DatoEstudianteCapas\\Program.cs",
+              "ToolTip": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\Program.cs",
+              "RelativeToolTip": "DatoEstudianteCapas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:41:41.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\StudentService.cs",
+              "RelativeDocumentMoniker": "DatoEstudianteCapas\\StudentService.cs",
+              "ToolTip": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\StudentService.cs",
+              "RelativeToolTip": "DatoEstudianteCapas\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:23:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DatoEstudianteCapas\\StudentRepository.cs",
+              "ToolTip": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\StudentRepository.cs",
+              "RelativeToolTip": "DatoEstudianteCapas\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:16:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\Student.cs",
+              "RelativeDocumentMoniker": "DatoEstudianteCapas\\Student.cs",
+              "ToolTip": "E:\\University\\INF-317 Programacion Paralela\\2doParcial_INF-317_I-2024 (Borrador)\\DatoEstudianteCapas\\DatoEstudianteCapas\\Student.cs",
+              "RelativeToolTip": "DatoEstudianteCapas\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T19:12:39.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
